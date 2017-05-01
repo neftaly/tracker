@@ -66,7 +66,7 @@ $(()=>
 
 
 
-var MapsURL = "Maps/" 
+var MapsURL = "maps/" 
 var MapImage = null
 var MapImageWithCombatArea = null
 
