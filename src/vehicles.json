@@ -1,0 +1,3782 @@
+{
+  "50cal_tripod": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aa_m167": {
+    "hudName": "M167",
+    "menuIcon": "menuicon_stw_aa_medium",
+    "miniMapIcon": "mini_stw_aa_medium"
+  },
+  "aaa_rh202": {
+    "hudName": "Rheinmetall Rh 202",
+    "menuIcon": "menuicon_stw_aa_medium",
+    "miniMapIcon": "mini_stw_aa_medium_rh202"
+  },
+  "aircontroltower": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_cf": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_chi": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_chins": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_fr": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_gb": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_idf": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_mec": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "aircontroltower_ru": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ammocache": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "arf_acv_technical": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "arg_apc_lvtp7": {
+    "hudName": "LVTP-7",
+    "menuIcon": "menuicon_apc_medium_aavp7",
+    "miniMapIcon": "mini_apc_medium_aavp7"
+  },
+  "arg_atc_argentina": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "arg_jep_vwt1": {
+    "hudName": "Volkswagen Type 1",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "arg_jet_a1h": {
+    "hudName": "A-1H Skyraider",
+    "menuIcon": "menuicon_jet_plane",
+    "miniMapIcon": "mini_jet_plane"
+  },
+  "arg_jet_a1h_objective": {
+    "hudName": "arg_jet_a1h_objective",
+    "menuIcon": "menuicon_jet_plane",
+    "miniMapIcon": "mini_jet_plane"
+  },
+  "arg_jet_a4b": {
+    "hudName": "A-4B Skyhawk",
+    "menuIcon": "menuicon_jet_attack_light2",
+    "miniMapIcon": "mini_jet_attack_light2"
+  },
+  "arg_jet_a4c": {
+    "hudName": "A-4C Skyhawk",
+    "menuIcon": "menuicon_jet_attack_light2",
+    "miniMapIcon": "mini_jet_attack_light2"
+  },
+  "arg_jet_a4q": {
+    "hudName": "A-4Q Skyhawk",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "arg_jet_dagger": {
+    "hudName": "IAI Dagger A",
+    "menuIcon": "menuicon_jet_strikefighter2",
+    "miniMapIcon": "mini_jet_strikefighter2"
+  },
+  "arg_jet_dagger_cas": {
+    "hudName": "IAI Dagger A CAS",
+    "menuIcon": "menuicon_jet_strikefighter2",
+    "miniMapIcon": "mini_jet_strikefighter2"
+  },
+  "arg_jet_mirage3ea": {
+    "hudName": "Mirage IIIEA",
+    "menuIcon": "menuicon_jet_asf",
+    "miniMapIcon": "mini_jet_asf"
+  },
+  "arg_jet_mirage3ea_as": {
+    "hudName": "Mirage IIIEA AS",
+    "menuIcon": "menuicon_jet_antiship",
+    "miniMapIcon": "mini_jet_antiship"
+  },
+  "arg_the_chinook_ch47c": {
+    "hudName": "Chinook CH-47C",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "arg_the_lynx_mk23": {
+    "hudName": "Lynx HAS.2",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "arg_the_uh1h": {
+    "hudName": "UH-1H Iroquois",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "arg_trk_logistics": {
+    "hudName": "M35 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "arg_trk_support": {
+    "hudName": "M35 2.5 Ton",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "ars_d30": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "artillery_team1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "artillery_team2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ats_hj8": {
+    "hudName": "HJ-8",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "ats_hj8_ndl": {
+    "hudName": "HJ-8",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "ats_spg9_vehicle": {
+    "hudName": "SPG-9",
+    "menuIcon": "menuicon_jep_atgm",
+    "miniMapIcon": "mini_jep_atgm"
+  },
+  "ats_tow": {
+    "hudName": "BGM-71 TOW",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "ats_tow_ndl": {
+    "hudName": "BGM-71 TOW",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "bipod_gpmg_l7a2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "bipod_gpmg_m60": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "bipod_gpmg_pkm": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "bipod_gpmg_pkp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "boat_rib": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_agl_mk19": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_gpmg_anf1": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_gpmg_c6": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_gpmg_l7a2": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_gpmg_m240b": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_gpmg_mg3": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_gpmg_pkp": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "boat_rib_hmg_m2": {
+    "hudName": "RHIB",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "cargoship_atlantic_conveyor": {
+    "hudName": "SS Atlantic Conveyor",
+    "menuIcon": "empty",
+    "miniMapIcon": "mini_shp_ssac"
+  },
+  "cargoship_atlantic_conveyor_skirmish16": {
+    "hudName": "SS Atlantic Conveyor",
+    "menuIcon": "empty",
+    "miniMapIcon": "mini_shp_ssac"
+  },
+  "cf_acv_lav3cpv": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "cf_apc_lav3": {
+    "hudName": "LAV-3",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "cf_apc_lav3_bf2": {
+    "hudName": "LAV-3",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "cf_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "cf_ifv_coyote": {
+    "hudName": "Coyote Recon Vehicle",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "cf_ifv_coyote_bf2": {
+    "hudName": "Coyote Recon Vehicle",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "cf_jep_gwagon": {
+    "hudName": "Mercedes G-Wagen",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "cf_jep_gwagon_support": {
+    "hudName": "Mercedes G-Wagen Support",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "cf_jet_cf18": {
+    "hudName": "CF-188A Hornet",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "cf_jet_cf18_cas": {
+    "hudName": "CF-188A Hornet CAS",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "cf_jet_cf18_sp": {
+    "hudName": "CF-188A Hornet",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "cf_the_ch146": {
+    "hudName": "CH-146 Griffon",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "cf_the_ch146_c6": {
+    "hudName": "CH-146 Griffon",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "cf_the_chinook": {
+    "hudName": "CH-147F Chinook",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "cf_the_uh1n": {
+    "hudName": "CH-135 Twin Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "cf_the_uh1n_c6": {
+    "hudName": "CH-135 Twin Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "cf_tnk_leo2a6": {
+    "hudName": "Leopard 2A6",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "cf_tnk_leo2a6_bf2": {
+    "hudName": "Leopard 2A6",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "cf_tnk_leo2a6_bf2_mgcupola": {
+    "hudName": "killed",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "cf_tnk_leo2a6_mgcupola": {
+    "hudName": "killed",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "cf_trk_logistics": {
+    "hudName": "MLVW Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "cf_trk_support": {
+    "hudName": "MLVW",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "ch_aav_type95": {
+    "hudName": "Type 95 SPAAA",
+    "menuIcon": "menuicon_adv_heavy",
+    "miniMapIcon": "mini_adv_heavy"
+  },
+  "ch_acv_wz551": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ch_ahe_z9wa": {
+    "hudName": "Z-9WA Haitun",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_23mm_guns": {
+    "hudName": "Z-9WA Haitun 23mm",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_23mm_guns_sp": {
+    "hudName": "Z-9WA Haitun 23mm",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_hf7d": {
+    "hudName": "Z-9WA Haitun HF7D",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_hf7d_sp": {
+    "hudName": "Z-9WA Haitun HF7D",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_hf25": {
+    "hudName": "Z-9WA Haitun HF-25",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_hf25_sp": {
+    "hudName": "Z-9WA Haitun HF-25",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z9wa_hj8": {
+    "hudName": "Z-9WA Haitun HJ-8",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "ch_ahe_z10": {
+    "hudName": "Z-10",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "ch_ahe_z10_sp": {
+    "hudName": "Z-10",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "ch_apc_wz551": {
+    "hudName": "ZSL-92 25mm",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ch_apc_wz551_bf2": {
+    "hudName": "ZSL-92 25mm",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ch_apc_wz551a": {
+    "hudName": "ZSL-92A",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "ch_atm_wz550": {
+    "hudName": "WZ550",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "ch_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ch_boat": {
+    "hudName": "Landing Boat",
+    "menuIcon": "menuicon_shp_light",
+    "miniMapIcon": "mini_shp_light"
+  },
+  "ch_ifv_type86": {
+    "hudName": "Type 86G",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ch_ifv_type86_bf2": {
+    "hudName": "Type 86G",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ch_ifv_wz551b": {
+    "hudName": "ZSL-92B 30mm",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ch_jep_paratrooper": {
+    "hudName": "Norinco FAV",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "ch_jep_uaz": {
+    "hudName": "BJ2020",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "ch_jep_vn3": {
+    "hudName": "VN-3",
+    "menuIcon": "menuicon_rec_light",
+    "miniMapIcon": "mini_rec_light"
+  },
+  "ch_jet_fantan": {
+    "hudName": "Q-5 Fantan",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "ch_jet_j10": {
+    "hudName": "J-10 Firebird",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ch_jet_j10_sp": {
+    "hudName": "J-10 Firebird",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ch_jet_su30": {
+    "hudName": "Su-30MKK Flanker-G",
+    "menuIcon": "menuicon_jet_figherbomber",
+    "miniMapIcon": "mini_jet_figherbomber"
+  },
+  "ch_jet_su30_sp": {
+    "hudName": "Su-30MKK Flanker-G",
+    "menuIcon": "menuicon_jet_figherbomber",
+    "miniMapIcon": "mini_jet_figherbomber"
+  },
+  "ch_the_mi17": {
+    "hudName": "Mi-17 Hip-H",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "ch_the_z8": {
+    "hudName": "Z-8KA",
+    "menuIcon": "menuicon_the_heavy",
+    "miniMapIcon": "mini_the_heavy"
+  },
+  "ch_the_z9b": {
+    "hudName": "Zhi-9B",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "ch_tnk_type98": {
+    "hudName": "ZTZ-98",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ch_tnk_type98_bf2": {
+    "hudName": "ZTZ-98",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ch_tnk_ztz99": {
+    "hudName": "ZTZ-99A2",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ch_trk_logistics": {
+    "hudName": "EQ2080 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "ch_trk_support": {
+    "hudName": "EQ2080 2.5 Ton",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "civ_aav_uralzu232": {
+    "hudName": "Ural-4320 ZU-23-2",
+    "menuIcon": "menuicon_adv_light",
+    "miniMapIcon": "mini_adv_light"
+  },
+  "civ_atm_technical": {
+    "hudName": "SPG-9 Technical",
+    "menuIcon": "menuicon_jep_atgm",
+    "miniMapIcon": "mini_jep_atgm"
+  },
+  "civ_atm_technical_militia": {
+    "hudName": "SPG-9 Technical",
+    "menuIcon": "menuicon_jep_atgm",
+    "miniMapIcon": "mini_jep_atgm"
+  },
+  "civ_atm_technical_rocket": {
+    "hudName": "Rocket Technical",
+    "menuIcon": "menuicon_jep_atgm",
+    "miniMapIcon": "mini_jep_atgm"
+  },
+  "civ_bik_atv": {
+    "hudName": "All-Terrain Vehicle",
+    "menuIcon": "menuicon_civ_atv",
+    "miniMapIcon": "mini_civ_atv"
+  },
+  "civ_bik_atv_laser": {
+    "hudName": "All-Terrain Vehicle",
+    "menuIcon": "menuicon_civ_atv",
+    "miniMapIcon": "mini_civ_atv"
+  },
+  "civ_bik_dirtbike": {
+    "hudName": "Dirtbike",
+    "menuIcon": "menuicon_civ_dirtbike",
+    "miniMapIcon": "mini_civ_dirtbike"
+  },
+  "civ_bik_hondacb500": {
+    "hudName": "Honda CB500",
+    "menuIcon": "menuicon_civ_dirtbike",
+    "miniMapIcon": "mini_civ_dirtbike"
+  },
+  "civ_jep_car": {
+    "hudName": "Civilian Car",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "civ_jep_car_black": {
+    "hudName": "Civilian Car",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "civ_jep_car_blue": {
+    "hudName": "Civilian Car",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "civ_jep_car_bomber": {
+    "hudName": "Car Bomb",
+    "menuIcon": "menuicon_civ_car_bomb",
+    "miniMapIcon": "mini_civ_car_bomb"
+  },
+  "civ_jep_car_bomber_black": {
+    "hudName": "Car Bomb",
+    "menuIcon": "menuicon_civ_car_bomb",
+    "miniMapIcon": "mini_civ_car_bomb"
+  },
+  "civ_jep_car_bomber_blue": {
+    "hudName": "Car Bomb",
+    "menuIcon": "menuicon_civ_car_bomb",
+    "miniMapIcon": "mini_civ_car_bomb"
+  },
+  "civ_jep_car_bomber_white": {
+    "hudName": "Car Bomb",
+    "menuIcon": "menuicon_civ_car_bomb",
+    "miniMapIcon": "mini_civ_car_bomb"
+  },
+  "civ_jep_car_white": {
+    "hudName": "Civilian Car",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "civ_jep_forklift": {
+    "hudName": "Industrial Forklift",
+    "menuIcon": "menuicon_civ_forklift",
+    "miniMapIcon": "mini_civ_forklift"
+  },
+  "civ_jep_support": {
+    "hudName": "Support Technical",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "civ_jep_support_arf": {
+    "hudName": "Support Technical",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "civ_jep_support_logistics": {
+    "hudName": "Logistics Technical",
+    "menuIcon": "menuicon_jep_logistics",
+    "miniMapIcon": "mini_jep_logistics"
+  },
+  "civ_jep_support_militia": {
+    "hudName": "Support Technical",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "civ_jep_technical": {
+    "hudName": "DShKM Technical",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "civ_jep_technical_black": {
+    "hudName": "M2HB Technical",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "civ_jep_technical_blue": {
+    "hudName": "DShKM Technical",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "civ_jep_technical_militia": {
+    "hudName": "DShKM Technical",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "civ_jep_technical_red": {
+    "hudName": "M2HB Technical",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "civ_jep_technical2": {
+    "hudName": "DShKM Technical",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "civ_jep_zastava900ak": {
+    "hudName": "Zastava 900AK Van",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "civ_jep_zastava900ak_militia": {
+    "hudName": "Zastava 900AK Van",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "civ_trk_dumpster": {
+    "hudName": "Dumpster Truck",
+    "menuIcon": "menuicon_civ_truck_semi",
+    "miniMapIcon": "mini_civ_truck_semi"
+  },
+  "civ_trk_dumpster_bomber": {
+    "hudName": "Suicide Dumpster Truck",
+    "menuIcon": "menuicon_civ_truck_bomb",
+    "miniMapIcon": "mini_civ_truck_bomb"
+  },
+  "civ_trk_semi": {
+    "hudName": "Semi Trailer Truck",
+    "menuIcon": "menuicon_civ_truck_semi",
+    "miniMapIcon": "mini_civ_truck_semi"
+  },
+  "civ_trk_semi_bomber": {
+    "hudName": "Suicide Semi Trailer Truck",
+    "menuIcon": "menuicon_civ_truck_semi",
+    "miniMapIcon": "mini_civ_truck_semi"
+  },
+  "civiliancar2": {
+    "hudName": "Civilian Car",
+    "menuIcon": "menuicon_civ_car",
+    "miniMapIcon": "mini_civ_car"
+  },
+  "deployable_50cal_tripod_ch": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_ch_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_ch_sp": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_mec": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_mec_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_mec_sp": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_mil": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_mil_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_mil_sp": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_us": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_us_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_us_is": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_50cal_tripod_us_sp": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_agl_tripod_us": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_bunker": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_bunker_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_cf": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_ch": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_ch_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_chins": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_fr": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_gb": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_gb_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_ger": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_idf": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_mec": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_mec_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_meins": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_nl": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_ru": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_us": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_commandpost_us_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_djigit": {
+    "hudName": "Djigit",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "deployable_djigit_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_djigit_sp": {
+    "hudName": "Djigit",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "deployable_firebase": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_firebase_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_firebase_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_foxhole": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_foxhole_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_foxhole_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_hj8": {
+    "hudName": "HJ-8",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_hj8_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_hj8_sp": {
+    "hudName": "HJ-8",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_insurgent_hideout": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_insurgent_hideout_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_insurgent_hideout_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_milan": {
+    "hudName": "MILAN",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_milan_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_milan_mira": {
+    "hudName": "MILAN",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_milan_mira_sp": {
+    "hudName": "MILAN",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_milan_sp": {
+    "hudName": "MILAN",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_mistral": {
+    "hudName": "Mistral",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "deployable_mistral_sp": {
+    "hudName": "Mistral",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "deployable_mortar_m252": {
+    "hudName": "M252",
+    "menuIcon": "menuicon_stw_mortar",
+    "miniMapIcon": "mini_stw_mortar"
+  },
+  "deployable_mortar_m252_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_mortar_m252_ins": {
+    "hudName": "M252",
+    "menuIcon": "menuicon_stw_mortar",
+    "miniMapIcon": "mini_stw_mortar"
+  },
+  "deployable_mortar_m252_ins_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_mortar_m252_ins_sp": {
+    "hudName": "M252",
+    "menuIcon": "menuicon_stw_mortar",
+    "miniMapIcon": "mini_stw_mortar"
+  },
+  "deployable_mortar_m252_sp": {
+    "hudName": "M252",
+    "menuIcon": "menuicon_stw_mortar",
+    "miniMapIcon": "mini_stw_mortar"
+  },
+  "deployable_pillbox": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_pillbox_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_razorwire": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_razorwire_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_razorwire_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_l01": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_l01_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_l02": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_l02_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_l03": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_l03_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_long_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_s01": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_s01_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_s02": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_s02_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_roadblock_short_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_sandbags_5m": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_sandbags_5m_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_sandbags_5m_sp": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_spg9": {
+    "hudName": "SPG-9",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_spg9_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_spg9_sp": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_stinger": {
+    "hudName": "Stinger",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "deployable_stinger_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_stinger_sp": {
+    "hudName": "Stinger",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "deployable_tow": {
+    "hudName": "BGM-71 TOW",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "deployable_tow_dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "deployable_tow_sp": {
+    "hudName": "BGM-71 TOW",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "dummy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_50cal_tripod_ch": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_50cal_tripod_mec": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_50cal_tripod_us": {
+    "hudName": "",
+    "menuIcon": "menuicon_stw_mg",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_bunker": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_carrier": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_firebase": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_insurgent_hideout": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_mortar": {
+    "hudName": "M252",
+    "menuIcon": "menuicon_stw_mortar",
+    "miniMapIcon": "mini_stw_mortar"
+  },
+  "fixed_mortar_ins": {
+    "hudName": "M252",
+    "menuIcon": "menuicon_stw_mortar",
+    "miniMapIcon": "mini_stw_mortar"
+  },
+  "fixed_spawn": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_spawn_cache": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fixed_supply_crate": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fr_acv_vab": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fr_ahe_tiger": {
+    "hudName": "EC 665 Tigre HAP",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "fr_ahe_tiger_sp": {
+    "hudName": "EC 665 Tigre HAP",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "fr_apc_vab": {
+    "hudName": "VAB VTT",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "fr_apc_vbci": {
+    "hudName": "VBCI",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "fr_apc_vbci_bf2": {
+    "hudName": "VBCI",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "fr_ats_milan": {
+    "hudName": "Milan",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "fr_the_chinook": {
+    "hudName": "CH-147 Chinook",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "fr_the_nh90": {
+    "hudName": "NH90 TTH",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "fr_the_nh90_navy": {
+    "hudName": "NH90 NFH",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "fr_the_panther": {
+    "hudName": "AS565 MB Panther",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "fr_tnk_amx10rc": {
+    "hudName": "AMX-10RC",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "fr_tnk_amx10rc_bf2": {
+    "hudName": "AMX-10RC",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "fr_tnk_leclerc": {
+    "hudName": "AMX-56 Leclerc",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "fr_tnk_leclerc_bf2": {
+    "hudName": "AMX-56 Leclerc",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "fr_trk_logistics": {
+    "hudName": "GBC 180 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "fr_trk_support": {
+    "hudName": "GBC-180",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "fraas_mistral": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "fsa_ifv_bmp1": {
+    "hudName": "BMP-1",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "fsa_jep_zastava900ak_logistics": {
+    "hudName": "Logistics Van",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "fsa_tnk_t62": {
+    "hudName": "T-62",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "gb_aav_stormer": {
+    "hudName": "Stormer HVM",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "gb_acv_sultan": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "gb_ahe_apache": {
+    "hudName": "Apache AH1",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "gb_ahe_apache_sp": {
+    "hudName": "Apache AH1",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "gb_apc_warrior": {
+    "hudName": "FV 510 Warrior",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "gb_apc_warrior_bf2": {
+    "hudName": "FV 510 Warrior",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "gb_apc_warrior_cage": {
+    "hudName": "FV 510 Warrior",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "gb_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "gb_carrier_illustrious": {
+    "hudName": "HMS Illustrious",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "gb_carrier_invincible": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "gb_ifv_scimitar": {
+    "hudName": "FV 107 Scimitar",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "gb_ifv_scimitar_bf2": {
+    "hudName": "FV 107 Scimitar",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "gb_ifv_scimitar_cage": {
+    "hudName": "FV 107 Scimitar",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "gb_ifv_scorpion": {
+    "hudName": "FV101 Scorpion",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "gb_jep_landrover": {
+    "hudName": "Land Rover",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "gb_jep_landrover_gmg": {
+    "hudName": "Land Rover GMG",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "gb_jep_landrover_support": {
+    "hudName": "Land Rover Support",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "gb_jep_panther": {
+    "hudName": "Panther CLV",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "gb_jep_panther_alt": {
+    "hudName": "Panther CLV",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "gb_jet_eurofighter": {
+    "hudName": "Eurofighter Typhoon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "gb_jet_eurofighter_sp": {
+    "hudName": "Eurofighter Typhoon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "gb_jet_harrier": {
+    "hudName": "Harrier GR.9",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "gb_jet_harrier_gr3": {
+    "hudName": "Harrier GR.3 CAS GPB",
+    "menuIcon": "menuicon_jet_attack_light2",
+    "miniMapIcon": "mini_jet_attack_light2"
+  },
+  "gb_jet_harrier_gr3b": {
+    "hudName": "Harrier GR.3 CAS LGB",
+    "menuIcon": "menuicon_jet_attack_light2",
+    "miniMapIcon": "mini_jet_attack_light2"
+  },
+  "gb_jet_harrier_gr3c": {
+    "hudName": "Harrier GR.3 CAS Rockets",
+    "menuIcon": "menuicon_jet_attack_light2",
+    "miniMapIcon": "mini_jet_attack_light2"
+  },
+  "gb_jet_harrier_gr9_asf": {
+    "hudName": "Harrier GR.9 ASF",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "gb_jet_seaharrier": {
+    "hudName": "Sea Harrier FRS.1 ASF",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "gb_jet_seaharrier_mk17": {
+    "hudName": "Sea Harrier FRS.1 CAS",
+    "menuIcon": "menuicon_jet_attack_light2",
+    "miniMapIcon": "mini_jet_attack_light2"
+  },
+  "gb_jet_tornadogr4_mw1": {
+    "hudName": "Tornado GR4",
+    "menuIcon": "menuicon_jet_figherbomber",
+    "miniMapIcon": "mini_jet_figherbomber"
+  },
+  "gb_the_chinook": {
+    "hudName": "Chinook HC.4",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "gb_the_chinook_ch1": {
+    "hudName": "Chinook HC1",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "gb_the_gazelle": {
+    "hudName": "Gazelle AH.1",
+    "menuIcon": "menuicon_ahe_scout",
+    "miniMapIcon": "mini_ahe_scout"
+  },
+  "gb_the_lynx": {
+    "hudName": "Lynx AH.7",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "gb_the_lynx_alt": {
+    "hudName": "Lynx AH.7",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "gb_the_lynx_has2": {
+    "hudName": "Lynx HAS.2",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "gb_the_lynx_l7a2": {
+    "hudName": "Lynx AH.7",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "gb_the_lynx_l7a2_alt": {
+    "hudName": "Lynx AH.7",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "gb_the_lynx_sp": {
+    "hudName": "killed",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "gb_the_merlin": {
+    "hudName": "Merlin HC3",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "gb_the_wessex": {
+    "hudName": "Wessex HU.5",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "gb_tnk_challenger": {
+    "hudName": "FV4034 Challenger 2",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "gb_tnk_challenger_alt": {
+    "hudName": "FV4034 Challenger 2",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "gb_tnk_challenger_alt_bf2": {
+    "hudName": "FV4034 Challenger 2",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "gb_tnk_challenger_bf2": {
+    "hudName": "FV4034 Challenger 2",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "gb_trk_logistics": {
+    "hudName": "MAN SV Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "gb_trk_logistics_cage": {
+    "hudName": "MAN SV Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "gb_trk_support": {
+    "hudName": "MAN Support Vehicle",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "gb82_trk_logistics": {
+    "hudName": "MAN SV Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "gb82_trk_support": {
+    "hudName": "MAN Support Vehicle",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "ger_acv_m557a2": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ger_ahe_tiger": {
+    "hudName": "EC 665 UH Tiger",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "ger_ahe_tiger_sp": {
+    "hudName": "EC 665 UH Tiger",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "ger_apc_fuchs": {
+    "hudName": "TPz Fuchs 1A8",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "ger_apc_puma": {
+    "hudName": "Puma",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ger_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ger_ifv_puma": {
+    "hudName": "Puma IFV",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ger_ifv_puma_bf2": {
+    "hudName": "Puma IFV",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ger_jep_gwagon_support": {
+    "hudName": "Mercedes G-Wagen",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "ger_jep_gwagon_support_alt": {
+    "hudName": "Mercedes G-Wagen",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "ger_jet_eurofighter": {
+    "hudName": "Eurofighter Typhoon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ger_jet_eurofighter_sp": {
+    "hudName": "Eurofighter Typhoon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ger_jet_tornadogr4_mw1": {
+    "hudName": "Tornado IDS",
+    "menuIcon": "menuicon_jet_figherbomber",
+    "miniMapIcon": "mini_jet_figherbomber"
+  },
+  "ger_the_nh90": {
+    "hudName": "NH90 TTH",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "ger_the_uh1d": {
+    "hudName": "Bell UH-1D",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "ger_the_uh1d_mg3": {
+    "hudName": "Bell UH-1D",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "ger_tnk_leo2a6": {
+    "hudName": "Leopard 2A6",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ger_tnk_leo2a6_bf2": {
+    "hudName": "Leopard 2A6",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ger_tnk_leo2a6_bf2_mgcupola": {
+    "hudName": "killed",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ger_tnk_leo2a6_mgcupola": {
+    "hudName": "killed",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ger_trk_logistics": {
+    "hudName": "MAN SV Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "ger_trk_support": {
+    "hudName": "MAN Support Vehicle",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "glu-1_firebomb": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "glu-1_firebomb_fire": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "idf_aav_m163": {
+    "hudName": "M163 Vulcan",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "idf_acv_m557": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "idf_ahe_apache": {
+    "hudName": "AH-64D Saraph",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "idf_ahe_apache_sp": {
+    "hudName": "AH-64D Saraph",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "idf_apc_m113": {
+    "hudName": "M113",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "idf_apc_m113_logistics": {
+    "hudName": "M113 Logistics",
+    "menuIcon": "menuicon_apc_logistics",
+    "miniMapIcon": "mini_apc_logistics"
+  },
+  "idf_apc_namer": {
+    "hudName": "Namer",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "idf_jep_hmmwv": {
+    "hudName": "HMMWV SIYUR",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "idf_jep_hmmwvopen": {
+    "hudName": "HMMWV SIYUR",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "idf_jet_f16": {
+    "hudName": "F-16C Barak",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "idf_the_uh60": {
+    "hudName": "UH-60L Yanshuf",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "idf_tnk_merkava": {
+    "hudName": "Merkava Mark IV",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "idf_tnk_merkava_bf2": {
+    "hudName": "Merkava Mark IV",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "idf_trk_logistics": {
+    "hudName": "M35 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "idf_trk_support": {
+    "hudName": "M35 2.5 Ton",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "igla_djigit": {
+    "hudName": "Igla",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "igla_djigit_atc": {
+    "hudName": "Igla",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "init_air_obj": {
+    "hudName": "",
+    "menuIcon": "empty",
+    "miniMapIcon": "empty"
+  },
+  "insrg_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "insurgent_hideout": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "invisible_object": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "jdam_flyby": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "jdam_team1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "jdam_team2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "kitcol": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mark_coordinates": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mark_laser": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mark_team1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mark_team1_holder": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mark_team2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mark_team2_holder": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_ammo": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_attack": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_attack_revealed": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_attack_revealed_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_attack_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_defend": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_defend_revealed": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_defend_revealed_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_area_defend_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_cas": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_extract": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_extract_apc": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_extract_helo": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_extract_jeep": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_laser": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_3": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_4": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_5": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_6": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_lz_7": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_medic": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_mines": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_mortar": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_paradrop_end": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_paradrop_start": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_attack": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_attack_revealed": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_attack_revealed_a": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_attack_revealed_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_attack_revealed_secondary_a": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_attack_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_defend": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_defend_revealed": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_defend_revealed_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_point_defend_secondary": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_repair": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_aa": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_aav": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_apc": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_at": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_atm": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_bridge": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_destroyedbridge": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_ifv": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_infantry": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_jeep": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_mine": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_objective": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_objective_commander": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_outpost": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_outpost_commander": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_rally": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_razorwire": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_sniper": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_spotter": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_stationaryaa": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_stationaryat": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_stationarymg": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_stationarymortar": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_stationarymortar_commander": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_tank": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_spotted_truck": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status_attack": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status_build": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status_defend": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status_destroy": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status_move": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_status_observe": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_supply": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_support": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_support_armor": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_support_bombcar": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_support_cas": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_support_jeep": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_target": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_uav": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "marker_uncappable": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mec_aav_gaskin": {
+    "hudName": "9K31 Gaskin",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "mec_aav_gopher": {
+    "hudName": "9K35 Gopher",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "mec_aav_shilka": {
+    "hudName": "ZSU-23-4 Shilka",
+    "menuIcon": "menuicon_adv_heavy",
+    "miniMapIcon": "mini_adv_heavy"
+  },
+  "mec_acv_btr60pu": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mec_ahe_ec635": {
+    "hudName": "EC635 Eurocopter",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "mec_ahe_havoc": {
+    "hudName": "Mi-28N Havoc",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "mec_ahe_havoc_sp": {
+    "hudName": "Mi-28N Havoc",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "mec_ahe_mi24": {
+    "hudName": "Mi-35P Hind",
+    "menuIcon": "menuicon_ahe_medium",
+    "miniMapIcon": "mini_ahe_medium"
+  },
+  "mec_ahe_mi24_light": {
+    "hudName": "Mi-35 Hind",
+    "menuIcon": "menuicon_ahe_medium",
+    "miniMapIcon": "mini_ahe_medium"
+  },
+  "mec_ahe_mi24_light_sp": {
+    "hudName": "Mi-35 Hind",
+    "menuIcon": "menuicon_ahe_medium",
+    "miniMapIcon": "mini_ahe_medium"
+  },
+  "mec_ahe_sa341h": {
+    "hudName": "SOKO HN-45M Gama 2",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "mec_apc_bmp2": {
+    "hudName": "BMP-2",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_bmp2_bf2": {
+    "hudName": "BMP-2",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_boragh": {
+    "hudName": "Boragh",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "mec_apc_btr60": {
+    "hudName": "BTR-60PB",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_btr60_bf2": {
+    "hudName": "BTR-60PB",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_btr80": {
+    "hudName": "BTR-80",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_btr80_alt": {
+    "hudName": "BTR-80",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_mtlb": {
+    "hudName": "MT-LB",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "mec_apc_mtlb_30mm": {
+    "hudName": "MT-LB 6MA",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_mtlb_30mm_bf2": {
+    "hudName": "MT-LB 6MA",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "mec_apc_mtlb_hmg": {
+    "hudName": "MT-LB 6M",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "mec_atm_shturm": {
+    "hudName": "9P149 Shturm-S",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "mec_atm_spandrel": {
+    "hudName": "9P148 Spandrel",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "mec_atm_spandrel_bf2": {
+    "hudName": "9P148 Spandrel",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "mec_ats_milan": {
+    "hudName": "MILAN",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "mec_ats_milan_ndl": {
+    "hudName": "Milan",
+    "menuIcon": "menuicon_stw_atgm",
+    "miniMapIcon": "mini_stw_atgm"
+  },
+  "mec_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mec_ifv_bmp2m": {
+    "hudName": "BMP-2M",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "mec_ifv_bmp2m_bf2": {
+    "hudName": "BMP-2M",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "mec_ifv_bmp3": {
+    "hudName": "BMP-3",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "mec_ifv_bmp3_bf2": {
+    "hudName": "BMP-3",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "mec_ifv_scorpion": {
+    "hudName": "FV101 Scorpion",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "mec_ifv_scorpion_bf2": {
+    "hudName": "FV101 Scorpion",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "mec_jep_brdm2": {
+    "hudName": "BRDM-2",
+    "menuIcon": "menuicon_rec_light",
+    "miniMapIcon": "mini_rec_light"
+  },
+  "mec_jep_brdm2_support": {
+    "hudName": "BRDM-2 Support",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "mec_jep_uaz": {
+    "hudName": "UAZ-3151 Support",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "mec_jep_uaz_mg": {
+    "hudName": "UAZ-3151",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "mec_jet_mig29": {
+    "hudName": "MiG-29 Fulcrum",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "mec_jet_mig29_sp": {
+    "hudName": "MiG-29 Fulcrum",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "mec_jet_su22": {
+    "hudName": "Su-22 Fitter",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "mec_jet_su22_sp": {
+    "hudName": "Su-22 Fitter",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "mec_jet_su25a": {
+    "hudName": "Su-25 Frogfoot",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "mec_jet_su25a_sp": {
+    "hudName": "Su-25 Frogfoot",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "mec_the_mi17": {
+    "hudName": "Mi-17 Hip-H",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "mec_the_mi17_sp": {
+    "hudName": "Mi-17 Hip-H",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "mec_the_sa341h": {
+    "hudName": "SOKO HO-42",
+    "menuIcon": "menuicon_ahe_scout",
+    "miniMapIcon": "mini_ahe_scout"
+  },
+  "mec_tnk_t72": {
+    "hudName": "T-72M",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "mec_tnk_t72_bf2": {
+    "hudName": "T-72M",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "mec_tnk_t72s": {
+    "hudName": "T-72S1",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "mec_tnk_t72s_alt": {
+    "hudName": "T-72S",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "mec_tnk_t72s_alt_mgcupolabase": {
+    "hudName": "T-72",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "mec_tnk_t72s_mgcupolabase": {
+    "hudName": "T-72",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "mec_trk_logistics": {
+    "hudName": "Ural-4320 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "mec_trk_support": {
+    "hudName": "Ural-4320",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "mil_acv_technical": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mil_ifv_bmp1": {
+    "hudName": "BMP-1",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "mil_ifv_bmp1_bf2": {
+    "hudName": "BMP-1",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "mil_tnk_t62": {
+    "hudName": "T-62",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "mil_tnk_t62_bf2": {
+    "hudName": "T-62",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "mil_trk_logistics": {
+    "hudName": "Ural-4320 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "mil_trk_support": {
+    "hudName": "Ural-4320",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "mobileradar_ch_dest": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mobileradar_dest": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mobileradar_dest2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mobileradar_gb_dest": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mobileradar_mech_dest": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mobileradar_us_dest": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mortar_team1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "mortar_team2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "nl_aav_fennekswp": {
+    "hudName": "Fennek SWP",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "nl_acv_boxer": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "nl_ahe_apache": {
+    "hudName": "AH-64D Apache",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "nl_ahe_apache_sp": {
+    "hudName": "AH-64D Apache",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "nl_apc_boxer": {
+    "hudName": "Boxer PWV",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "nl_apc_ypr50": {
+    "hudName": "YPR-765",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "nl_apc_ypr50_gpmg": {
+    "hudName": "YPR-765 GPMG",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "nl_jep_bushmaster": {
+    "hudName": "Bushmaster PMV",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "nl_jep_bushmaster_crows": {
+    "hudName": "Bushmaster PMV CROWS",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "nl_jep_fennek": {
+    "hudName": "Fennek VWWRN",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "nl_jep_fennek_sensorpod": {
+    "hudName": "Fennek VWWRN",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "nl_jep_gwagon_support": {
+    "hudName": "Mercedes-Benz G280",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "nl_jep_landrover": {
+    "hudName": "Land Rover Defender 110XD WW",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "nl_jet_f16": {
+    "hudName": "F-16C Fighting Falcon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "nl_jet_f16_cas": {
+    "hudName": "F-16C Fighting Falcon CAS",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "nl_the_chinook": {
+    "hudName": "CH-47D Chinook",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "nl_the_nh90": {
+    "hudName": "NH90 TTH",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "nl_tnk_leo2a6": {
+    "hudName": "Leopard 2A6",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "nl_tnk_leo2a6_mgcupola": {
+    "hudName": "Leopard 2A6",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "nl_trk_logistics": {
+    "hudName": "DAF YAC-2300",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "nl_trk_support": {
+    "hudName": "DAF YA 4440",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "nva_aav_zsu57": {
+    "hudName": "ZSU-57-2",
+    "menuIcon": "menuicon_adv_heavy",
+    "miniMapIcon": "mini_adv_heavy"
+  },
+  "nva_apc_btr60": {
+    "hudName": "BTR-60PB",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "nva_jep_uaz": {
+    "hudName": "UAZ-469 Support",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "nva_jep_uaz_mg": {
+    "hudName": "UAZ-469",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "nva_jet_mig21": {
+    "hudName": "MiG-21 Fishbed",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "nva_tnk_pt76": {
+    "hudName": "PT-76",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "nva_trk_support": {
+    "hudName": "ZIL 131",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "nva_trk_zis5": {
+    "hudName": "ZIS-5V",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "obj_ammodump_lrg": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_arty_arsd30": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_arty_lw155": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_bridge_dambridge_part1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_bridge_dambridge_part2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_bridge_dambridge_part3": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_bridge_highwaysegment_1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_bridge_highwaysegment_2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_bridgetrain_section": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_fueldump_fueltank": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_radiotower": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_staticvehicle_nanjing": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_staticvehicle_nanjing_2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_staticvehicle_type95": {
+    "hudName": "KILLMESSAGE_VEHICLE_type95",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_staticvehicle_type98": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_staticvehicle_type98_2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "obj_staticvehicle_wz551": {
+    "hudName": "killed",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "objective_leo2a6": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "objective_t90": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "para_supply_crate": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "paradrop": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "paradrop_noexpire": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "rallypoint_arf_placeable": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ru_aav_gopher": {
+    "hudName": "9K35 Gopher",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "ru_aav_tunguska": {
+    "hudName": "9K22 Tunguska",
+    "menuIcon": "menuicon_adv_heavy",
+    "miniMapIcon": "mini_adv_heavy"
+  },
+  "ru_acv_btr60pu": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ru_ahe_havoc": {
+    "hudName": "Mi-28N Havoc",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "ru_ahe_havoc_sp": {
+    "hudName": "Mi-28N Havoc",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "ru_ahe_mi24": {
+    "hudName": "Mi-24P Hind-F",
+    "menuIcon": "menuicon_ahe_medium",
+    "miniMapIcon": "mini_ahe_medium"
+  },
+  "ru_ahe_mi24_light": {
+    "hudName": "Mi-24V Hind-E",
+    "menuIcon": "menuicon_ahe_medium",
+    "miniMapIcon": "mini_ahe_medium"
+  },
+  "ru_ahe_mi24_sp": {
+    "hudName": "Mi-24P Hind-F",
+    "menuIcon": "menuicon_ahe_medium",
+    "miniMapIcon": "mini_ahe_medium"
+  },
+  "ru_apc_bmp2": {
+    "hudName": "BMP-2",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_bmp2_bf2": {
+    "hudName": "BMP-2",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr60": {
+    "hudName": "BTR-60PB",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr60_bf2": {
+    "hudName": "BTR-60PB",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr80": {
+    "hudName": "BTR-80",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr80_alt": {
+    "hudName": "BTR-80",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr80_bf2": {
+    "hudName": "BTR-80",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr80a": {
+    "hudName": "BTR-80A",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_btr80a_bf2": {
+    "hudName": "BTR-80A",
+    "menuIcon": "menuicon_apc_medium",
+    "miniMapIcon": "mini_apc_medium"
+  },
+  "ru_apc_mtlb": {
+    "hudName": "MT-LB",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "ru_apc_mtlb_hmg": {
+    "hudName": "MT-LBM",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "ru_atc_cuba": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ru_atm_shturm": {
+    "hudName": "9P149 Shturm-S",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "ru_atm_spandrel": {
+    "hudName": "9P148 Spandrel",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "ru_atm_spandrel_bf2": {
+    "hudName": "9P148 Spandrel",
+    "menuIcon": "menuicon_rec_atgm",
+    "miniMapIcon": "mini_rec_atgm"
+  },
+  "ru_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "ru_ifv_bmp2": {
+    "hudName": "BMP-2",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ru_ifv_bmp2_bf2": {
+    "hudName": "BMP-2",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ru_ifv_bmp3": {
+    "hudName": "BMP-3",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ru_ifv_bmp3_bf2": {
+    "hudName": "BMP-3",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "ru_jep_brdm2": {
+    "hudName": "BRDM-2",
+    "menuIcon": "menuicon_rec_light",
+    "miniMapIcon": "mini_rec_light"
+  },
+  "ru_jep_brdm2_alt": {
+    "hudName": "BRDM-2",
+    "menuIcon": "menuicon_rec_light",
+    "miniMapIcon": "mini_rec_light"
+  },
+  "ru_jep_brdm2_support": {
+    "hudName": "BRDM-2 Support",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "ru_jet_mig21": {
+    "hudName": "MiG-21MF Fishbed",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ru_jet_mig29": {
+    "hudName": "MiG-29S Fulcrum",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ru_jet_mig29_asf": {
+    "hudName": "MiG-29S Fulcrum ASF",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ru_jet_mig29_sp": {
+    "hudName": "MiG-29S Fulcrum",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ru_jet_su25a": {
+    "hudName": "Su-25 Frogfoot",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "ru_jet_su25a_sp": {
+    "hudName": "Su-25 Frogfoot",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "ru_jet_su27": {
+    "hudName": "Su-27SM Flanker-B",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ru_jet_su27_asf": {
+    "hudName": "Su-27SM Flanker-B ASF",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "ru_jet_su34": {
+    "hudName": "Su-34 Fullback",
+    "menuIcon": "menuicon_jet_figherbomber",
+    "miniMapIcon": "mini_jet_figherbomber"
+  },
+  "ru_jet_su39": {
+    "hudName": "Su-39 Frogfoot",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "ru_the_mi8": {
+    "hudName": "Mi-8MT Hip-C",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "ru_tnk_t72b": {
+    "hudName": "T-72B1",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ru_tnk_t72b_mgcupolabase": {
+    "hudName": "T-72",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ru_tnk_t90": {
+    "hudName": "T-90A",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ru_tnk_t90_alt": {
+    "hudName": "T-90A",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ru_tnk_t90_bf2": {
+    "hudName": "T-90A",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "ru_trk_logistics": {
+    "hudName": "Ural-4320 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "ru_trk_support": {
+    "hudName": "Ural-4320",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "sam_sa3": {
+    "hudName": "SA-3 Goa",
+    "menuIcon": "menuicon_stw_aa_heavy2",
+    "miniMapIcon": "mini_stw_aa_heavy2"
+  },
+  "sam_sa3_alt1": {
+    "hudName": "SA-3 Goa",
+    "menuIcon": "menuicon_stw_aa_heavy2",
+    "miniMapIcon": "mini_stw_aa_heavy2"
+  },
+  "sam_tigercat": {
+    "hudName": "Tigercat SAM",
+    "menuIcon": "menuicon_stw_aa_heavy",
+    "miniMapIcon": "mini_stw_aa_heavy"
+  },
+  "spectator_camera": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_misc_prbot"
+  },
+  "spectator_camera_2": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_misc_prbot"
+  },
+  "spectator_camera_3": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_misc_prbot"
+  },
+  "spectator_camera_4": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_misc_prbot"
+  },
+  "spectator_camera_alt": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_misc_prbot"
+  },
+  "static_uav_1_1km": {
+    "hudName": "UAV",
+    "menuIcon": "icon_uav",
+    "miniMapIcon": "icon_uav"
+  },
+  "static_uav_1_2km": {
+    "hudName": "UAV",
+    "menuIcon": "icon_uav",
+    "miniMapIcon": "icon_uav"
+  },
+  "static_uav_1_4km": {
+    "hudName": "UAV",
+    "menuIcon": "icon_uav",
+    "miniMapIcon": "icon_uav"
+  },
+  "static_uav_2_1km": {
+    "hudName": "UAV",
+    "menuIcon": "icon_uav",
+    "miniMapIcon": "icon_uav"
+  },
+  "static_uav_2_2km": {
+    "hudName": "UAV",
+    "menuIcon": "icon_uav",
+    "miniMapIcon": "icon_uav"
+  },
+  "static_uav_2_4km": {
+    "hudName": "UAV",
+    "menuIcon": "icon_uav",
+    "miniMapIcon": "icon_uav"
+  },
+  "target_pr": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "truck1": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "uav_fuel": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "us_aav_avenger": {
+    "hudName": "AN/TWQ-1 Avenger",
+    "menuIcon": "menuicon_adv_medium",
+    "miniMapIcon": "mini_adv_medium"
+  },
+  "us_acv_lavc2": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "us_acv_stryker": {
+    "hudName": "Aerial Recon",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "us_ahe_ah1z": {
+    "hudName": "AH-1 SuperCobra",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "us_ahe_ah1z_sp": {
+    "hudName": "AH-1 SuperCobra",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "us_ahe_ah6": {
+    "hudName": "AH-6 Littlebird Rockets",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_ah6_sp": {
+    "hudName": "AH-6 Littlebird",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_ah6a": {
+    "hudName": "AH-6 Littlebird",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_apache": {
+    "hudName": "AH-64D Apache Longbow",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "us_ahe_apache_sp": {
+    "hudName": "AH-64D Apache Longbow",
+    "menuIcon": "menuicon_ahe_heavy",
+    "miniMapIcon": "mini_ahe_heavy"
+  },
+  "us_ahe_kiowa": {
+    "hudName": "OH-58D Kiowa Hydra/.50",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_kiowa_alt": {
+    "hudName": "OH-58D Kiowa Hydra",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_kiowa_alt_sp": {
+    "hudName": "OH-58D Kiowa Hydra",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_kiowa_alt2": {
+    "hudName": "OH-58D Kiowa Hellfire",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_kiowa_sp": {
+    "hudName": "OH-58D Kiowa Hydra/.50",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_oh6": {
+    "hudName": "OH-6 Cayuse",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_uh1c": {
+    "hudName": "UH-1C Huey",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_uh1c_sp": {
+    "hudName": "UH-1C Huey",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_uh1nrockets": {
+    "hudName": "UH-1N Twin Huey CAS",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_ahe_uh1nrockets_sp": {
+    "hudName": "UH-1N Twin Huey CAS",
+    "menuIcon": "menuicon_ahe_light",
+    "miniMapIcon": "mini_ahe_light"
+  },
+  "us_apc_aavp7a1": {
+    "hudName": "AAVP7A1 RAM/RS",
+    "menuIcon": "menuicon_apc_medium_aavp7",
+    "miniMapIcon": "mini_apc_medium_aavp7"
+  },
+  "us_apc_aavp7a1_bf2": {
+    "hudName": "AAVP7A1 RAM/RS",
+    "menuIcon": "menuicon_apc_medium_aavp7",
+    "miniMapIcon": "mini_apc_medium_aavp7"
+  },
+  "us_apc_acav": {
+    "hudName": "M113 ACAV",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "us_apc_lav25": {
+    "hudName": "LAV-25",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "us_apc_lav25_bf2": {
+    "hudName": "LAV-25",
+    "menuIcon": "menuicon_rec_medium",
+    "miniMapIcon": "mini_rec_medium"
+  },
+  "us_apc_m113": {
+    "hudName": "M113",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "us_apc_stryker": {
+    "hudName": "M1126 Stryker ICV",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "us_apc_stryker_mk19": {
+    "hudName": "M1126 Stryker ICV MK19",
+    "menuIcon": "menuicon_apc_light",
+    "miniMapIcon": "mini_apc_light"
+  },
+  "us_atm_hmmwv": {
+    "hudName": "M1045A1 HMMWV TOW",
+    "menuIcon": "menuicon_jep_atgm",
+    "miniMapIcon": "mini_jep_atgm"
+  },
+  "us_atm_hmmwv_uparmored": {
+    "hudName": "M1167 HMMWV Up-Armored TOW",
+    "menuIcon": "menuicon_jep_atgm",
+    "miniMapIcon": "mini_jep_atgm"
+  },
+  "us_bipod": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "us_ifv_m2a2": {
+    "hudName": "M2A2 Bradley ODS",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "us_ifv_m2a2_bf2": {
+    "hudName": "M2A2 Bradley ODS",
+    "menuIcon": "menuicon_apc_heavy",
+    "miniMapIcon": "mini_apc_heavy"
+  },
+  "us_jep_hmmwv": {
+    "hudName": "M1025 HMMWV",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_hmmwv_crows": {
+    "hudName": "M1025 HMMWV CROWS",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_hmmwv_mk19": {
+    "hudName": "M1025 HMMWV MK19",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_hmmwv_support": {
+    "hudName": "M1038A1 HMMWV",
+    "menuIcon": "menuicon_jep_support",
+    "miniMapIcon": "mini_jep_support"
+  },
+  "us_jep_hmmwv_uparmored": {
+    "hudName": "M1151 Up-Armored HMMWV",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_hmmwv_uparmored_alt": {
+    "hudName": "M1151 Up-Armored HMMWV",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_hmmwv_uparmored_crows": {
+    "hudName": "M1151 Up-Armored HMMWV CROWS",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_hmmwv_uparmored_mk19": {
+    "hudName": "M1151 Up-Armored HMMWV MK19",
+    "menuIcon": "menuicon_jep_medium",
+    "miniMapIcon": "mini_jep_medium"
+  },
+  "us_jep_m151a2": {
+    "hudName": "M151A2",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "us_jep_m151a2_support": {
+    "hudName": "M151A2 Support",
+    "menuIcon": "menuicon_jep_light",
+    "miniMapIcon": "mini_jep_light"
+  },
+  "us_jet_a1h": {
+    "hudName": "A-1H Skyraider",
+    "menuIcon": "menuicon_jet_plane",
+    "miniMapIcon": "mini_jet_plane"
+  },
+  "us_jet_a4": {
+    "hudName": "A-4C Skyhawk",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "us_jet_a10a": {
+    "hudName": "A-10A Thunderbolt II",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "us_jet_a10a_sp": {
+    "hudName": "A-10A Thunderbolt II",
+    "menuIcon": "menuicon_jet_attack_heavy",
+    "miniMapIcon": "mini_jet_attack_heavy"
+  },
+  "us_jet_f15": {
+    "hudName": "F-15E Strike Eagle",
+    "menuIcon": "menuicon_jet_figherbomber",
+    "miniMapIcon": "mini_jet_figherbomber"
+  },
+  "us_jet_f16": {
+    "hudName": "F-16C Fighting Falcon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "us_jet_f16_sp": {
+    "hudName": "F-16C Fighting Falcon",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "us_jet_f18c": {
+    "hudName": "F/A-18C Hornet",
+    "menuIcon": "menuicon_jet_strikefighter",
+    "miniMapIcon": "mini_jet_strikefighter"
+  },
+  "us_jet_harrier": {
+    "hudName": "AV-8B Harrier II+",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "us_jet_harrier_sp": {
+    "hudName": "AV-8B Harrier II+",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "us_jet_harrierb": {
+    "hudName": "AV-8B Harrier II+ CAS",
+    "menuIcon": "menuicon_jet_attack_light",
+    "miniMapIcon": "mini_jet_attack_light"
+  },
+  "us_shp_pbr": {
+    "hudName": "Patrol Boat-River",
+    "menuIcon": "menuicon_shp_seat_captain",
+    "miniMapIcon": "mini_shp_medium"
+  },
+  "us_shp_swiftboat": {
+    "hudName": "US Swift Boat",
+    "menuIcon": "menuicon_shp_heavy",
+    "miniMapIcon": "mini_shp_heavy"
+  },
+  "us_the_chinook": {
+    "hudName": "CH-47D Chinook",
+    "menuIcon": "menuicon_the_heavy_chinook",
+    "miniMapIcon": "mini_the_heavy_chinook"
+  },
+  "us_the_h-34": {
+    "hudName": "H-34 Choctaw",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "us_the_mh6": {
+    "hudName": "MH-6 Littlebird",
+    "menuIcon": "menuicon_ahe_scout",
+    "miniMapIcon": "mini_ahe_scout"
+  },
+  "us_the_mv22": {
+    "hudName": "MV-22 Osprey",
+    "menuIcon": "menuicon_the_heavy_mv22",
+    "miniMapIcon": "mini_the_heavy_mv22"
+  },
+  "us_the_uh1c": {
+    "hudName": "UH-1C Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh1c_sp": {
+    "hudName": "UH-1C Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh1d": {
+    "hudName": "UH-1D Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh1d_medevac": {
+    "hudName": "UH-1D Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh1n": {
+    "hudName": "UH-1N Twin Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh1n_m240d": {
+    "hudName": "UH-1N Twin Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh1n_sp": {
+    "hudName": "UH-1N Twin Huey",
+    "menuIcon": "menuicon_the_light",
+    "miniMapIcon": "mini_the_light"
+  },
+  "us_the_uh60": {
+    "hudName": "UH-60L Blackhawk",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "us_the_uh60_alt": {
+    "hudName": "UH-60L Blackhawk",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "us_the_uh60_soar": {
+    "hudName": "MH-60L Blackhawk",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "us_the_uh60_sp": {
+    "hudName": "UH-60L Blackhawk",
+    "menuIcon": "menuicon_the_medium",
+    "miniMapIcon": "mini_the_medium"
+  },
+  "us_tnk_m1a1": {
+    "hudName": "M1A1 Abrams",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "us_tnk_m1a1_alt": {
+    "hudName": "M1A1 Abrams TUSK",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "us_tnk_m1a1_bf2": {
+    "hudName": "M1A1 Abrams",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "us_tnk_m1a2": {
+    "hudName": "M1A2 Abrams",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "us_tnk_m1a2_alt": {
+    "hudName": "M1A2 Abrams TUSK",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "us_tnk_m1a2_bf2": {
+    "hudName": "M1A2 Abrams",
+    "menuIcon": "menuicon_tank_heavy",
+    "miniMapIcon": "mini_tank_heavy"
+  },
+  "us_tnk_m48a1": {
+    "hudName": "M48A1 Patton",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "us_tnk_m67": {
+    "hudName": "M67 Zippo",
+    "menuIcon": "menuicon_tank_medium",
+    "miniMapIcon": "mini_tank_medium"
+  },
+  "us_trk_logistics": {
+    "hudName": "M35 Logistics",
+    "menuIcon": "menuicon_trk_logistics",
+    "miniMapIcon": "mini_trk_logistics"
+  },
+  "us_trk_m35": {
+    "hudName": "M35 2.5 Ton",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "us_trk_m548a1": {
+    "hudName": "M548A1",
+    "menuIcon": "menuicon_apc_logistics",
+    "miniMapIcon": "mini_apc_logistics"
+  },
+  "us_trk_support": {
+    "hudName": "M35 2.5 Ton",
+    "menuIcon": "menuicon_trk_support",
+    "miniMapIcon": "mini_trk_support"
+  },
+  "usaas_stinger": {
+    "hudName": "Stinger",
+    "menuIcon": "menuicon_stw_aa_light",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "usart_lw155": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vc_shp_sampan": {
+    "hudName": "Sampan",
+    "menuIcon": "menuicon_shp_seat_captain",
+    "miniMapIcon": "mini_shp_light_sampan"
+  },
+  "vehicle_depot": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_arg": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_cf": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_ch": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_fr": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_fsa": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_gb": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_ger": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_idf": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_mec": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_mil": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_nl": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_ru": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_tal": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_us": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "vehicle_depot_vnnva": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_mg"
+  },
+  "wasp_defence_back": {
+    "hudName": "Wasp",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "wasp_defence_back_atc": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "wasp_defence_front": {
+    "hudName": "Wasp",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "wasp_defence_front_atc": {
+    "hudName": "",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_aa_light"
+  },
+  "zis3": {
+    "hudName": "ZiS-3",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_atgun"
+  },
+  "zis3_sp": {
+    "hudName": "ZiS-3",
+    "menuIcon": "",
+    "miniMapIcon": "mini_stw_atgun"
+  },
+  "zpu4": {
+    "hudName": "ZPU-4",
+    "menuIcon": "menuicon_stw_aa_medium",
+    "miniMapIcon": "mini_stw_aa_medium"
+  },
+  "zpu4_atc": {
+    "hudName": "ZPU-4",
+    "menuIcon": "menuicon_stw_aa_medium",
+    "miniMapIcon": "mini_stw_aa_medium"
+  },
+  "zu232": {
+    "hudName": "ZU-23-2",
+    "menuIcon": "menuicon_stw_aa_medium",
+    "miniMapIcon": "mini_stw_aa_medium_rh202"
+  },
+  "zu232_mounted": {
+    "hudName": "ZSU-23-2",
+    "menuIcon": "menuicon_stw_aa_medium",
+    "miniMapIcon": "mini_stw_aa_medium_rh202"
+  }
+}
