@@ -17,7 +17,7 @@ app.use(hot(compiler, {
 app.use(dev(compiler));
 
 app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, 'index.html'))
+  res.sendFile(path.join(__dirname, 'src/index.html'))
 );
 
 app.listen(port, 'localhost', err => err
