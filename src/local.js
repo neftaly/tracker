@@ -20,7 +20,7 @@ const local = immstruct({
 });
 
 local.on(
-  'swap',
+  'next-animation-frame',
   state => window.history.replaceState(
     undefined,
     undefined,

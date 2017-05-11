@@ -1,49 +1,35 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { fromJS } from 'immutable';
+import { List } from 'immutable';
+import { parser, states } from 'tracker-parser';
 import R from 'ramda';
+// import setAsap from 'setasap';
+import { filePrompt, fileReader } from './lib';
 import Main from './Main';
 import local from './local';
-
-const history = R.reduce(
-  (past, current) => {
-    const last = past.last();
-    return past.push(
-      last.set('a', current)
-    );
-  },
-  fromJS([
-    { a: [90, 40] }
-  ]),
-  [
-    fromJS([100, 50]),
-    fromJS([110, 60]),
-    fromJS([120, 50]),
-    fromJS([130, 40])
-  ]
-);
 
 class Root extends React.Component {
   constructor () {
     super();
 
-    const addHistory = fn => {
-      const oldHistory = this.state.history;
-      const oldState = oldHistory.get(-1);
-      const newState = fn(oldState);
-      const newHistory = oldHistory.push(newState);
-      this.setState({ history: newHistory });
-      return newHistory;
-    };
-
     this.state = {
-      history,
-      addHistory,
+      history: new List([]),
       local: local.on(
-        'swap',
+        'next-animation-frame',
         () => this.setState({ local: local.cursor() })
       ).cursor()
     };
+
+    window.loadFile = () => R.composeP(
+      history => this.setState({ history }),
+      events => states(undefined, events),
+      parser,
+      fileReader,
+      R.prop(0),
+      filePrompt
+    )({
+      accept: '.PRdemo'
+    });
   }
 
   render () {

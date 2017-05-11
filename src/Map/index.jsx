@@ -60,7 +60,7 @@ const maps = {
 const Map = ({ name, ...attrs }) => (
   <div {...attrs} style={{
     ...attrs.style,
-    position: 'absolute',
+    position: 'relative',
     overflow: 'hidden',
     backgroundSize: 'contain',
     backgroundRepeat: 'no-repeat',

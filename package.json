@@ -18,6 +18,7 @@
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4",
     "react-pixi": "^0.9.8",
+    "setasap": "^2.0.0",
     "tracker-parser": "github:neftaly/tracker-parser"
   },
   "devDependencies": {

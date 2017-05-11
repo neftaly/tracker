@@ -2,30 +2,44 @@ import Sprite from './Sprite';
 import Map from './Map';
 import R from 'ramda';
 import { TickSlider, SpeedSlider } from './Sliders';
-import { List } from 'immutable';
+import vehicleData from './vehicles.json';
+import immutable from 'immutable';
 
-const Root = ({ local, history, addHistory }) => {
+const Root = ({ local, history, loading }) => {
   const tick = local.cursor('tick');
   const play = local.cursor('play');
-  const current = history.get(tick.valueOf()) || history.get(-1);
+  const current = history.get(tick.valueOf(), history.get(-1));
+
+  const vehicles = current && R.map(
+    R.compose(
+      data => <Sprite name={
+        R.path([data.name, 'miniMapIcon'], vehicleData)
+      } style={{
+        left: 250 + data.status.x / 2,
+        top: 250 - data.status.z / 2,
+        transform: `rotate(${data.status.yaw}deg)`
+      }} key={data.id} />,
+      ([ id, rest ]) => ({ id, ...rest })
+    ),
+    R.toPairs(
+      current.get(
+        'vehicles',
+        new immutable.Map({})
+      ).toJS()
+    )
+  );
+
+  const mapName = current && current.getIn(['server', 'details', 'mapName']);
 
   return (
     <div>
       Current app state:
       <pre children={JSON.stringify(local, null, 2)} />
 
-      <hr />
-
-      Current history state:
-      <pre children={JSON.stringify(current, null, 2)} />
-
-      <hr />
-
-      Entire history:
-      <pre children={JSON.stringify(history, null, 2)} style={{
-        overflow: 'scroll',
-        height: '10em'
-      }} />
+      { current
+        ? 'file loaded'
+        : <button onClick={window.loadFile} children='load PRdemo' />
+      }
 
       <hr />
 
@@ -59,27 +73,18 @@ const Root = ({ local, history, addHistory }) => {
 
       <hr />
 
-      <button onClick={
-        () => addHistory(state => state.set(
-          'a',
-          List([
-            Math.random() * 500,
-            Math.random() * 500
-          ])
-        ))
-      } children='Add some history' />
-
-      <hr />
-
-      <Map name='albasrah' style={{
+      <Map name={mapName} style={{
         height: 500,
-        width: 500
-      }}>
-        <Sprite name='arf_cp' style={{
-          left: current.getIn(['a', 0]).valueOf(),
-          top: current.getIn(['a', 1]).valueOf()
-        }} />
-      </Map>
+        width: 500,
+        display: 'inline-block'
+      }} children={vehicles} />
+      <pre children={JSON.stringify(current, null, 2)} style={{
+        display: 'inline-block',
+        height: '500px',
+        width: 'calc(100vw - 600px)',
+        overflowY: 'scroll'
+      }} />
+
     </div>
   );
 };
