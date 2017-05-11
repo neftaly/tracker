@@ -3,7 +3,7 @@ const express = require('express');
 const webpack = require('webpack');
 const dev = require('webpack-dev-middleware');
 const hot = require('webpack-hot-middleware');
-const config = require('./webpack.config');
+const config = require('./webpack.config')();
 
 const port = Number(process.env.port || 3000);
 const app = express();

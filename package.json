@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "test": "semistandard | snazzy",
-    "build": "(rm -rf docs || true) && NODE_ENV=production webpack --config webpack.config.js",
+    "build": "(rm -rf docs || true) && webpack -p --config webpack.config.js",
     "start": "node server.js"
   },
   "repository": "https://github.com/neftaly/tracker",
