@@ -6,7 +6,6 @@ const R = require('ramda');
 module.exports = (env, { p: isProd } = {}) => ({
   devtool: isProd ? 'source-map' : 'cheap-eval-source-map',
   entry: R.filter(R.identity, [
-    'babel-polyfill',
     !isProd && 'webpack-hot-middleware/client',
     './src/index'
   ]),

@@ -1,6 +1,7 @@
 import R from 'ramda';
+import memoize from 'memoize-immutable';
 
-let v8GcBugFix; // Fix unreported GC bug in V8
+let v8GcBugFix; // eslint-disable-line no-unused-vars
 const filePrompt = attributes => new Promise(resolve => {
   const input = Object.assign(document.createElement('input'), {
     ...attributes,
@@ -26,7 +27,10 @@ const fileReader = file => new Promise(
   }).readAsArrayBuffer(file)
 );
 
+const count = memoize(list => list.count());
+
 export {
   filePrompt,
-  fileReader
+  fileReader,
+  count
 };

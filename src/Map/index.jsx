@@ -1,71 +1,73 @@
-const maps = {
-  'albasrah_2': require('./images/albasrah_2.jpg'),
-  'albasrah': require('./images/albasrah.jpg'),
-  'asad_khal': require('./images/asad_khal.jpg'),
-  'assault_on_grozny': require('./images/assault_on_grozny.jpg'),
-  'assault_on_mestia': require('./images/assault_on_mestia.jpg'),
-  'bamyan': require('./images/bamyan.jpg'),
-  'battle_of_ia_drang': require('./images/battle_of_ia_drang.jpg'),
-  'beirut': require('./images/beirut.jpg'),
-  'bijar_canyons': require('./images/bijar_canyons.jpg'),
-  'black_gold': require('./images/black_gold.jpg'),
-  'burning_sands': require('./images/burning_sands.jpg'),
-  'charlies_point': require('./images/charlies_point.jpg'),
-  'dovre': require('./images/dovre.jpg'),
-  'dovre_winter': require('./images/dovre_winter.jpg'),
-  'dragon_fly': require('./images/dragon_fly.jpg'),
-  'fallujah_west': require('./images/fallujah_west.jpg'),
-  'fools_road': require('./images/fools_road.jpg'),
-  'gaza_2': require('./images/gaza_2.jpg'),
-  'gaza': require('./images/gaza.jpg'),
-  'goose_green': require('./images/goose_green.jpg'),
-  'hades_peak': require('./images/hades_peak.jpg'),
-  'hill_488': require('./images/hill_488.jpg'),
-  'iron_ridge': require('./images/iron_ridge.jpg'),
-  'jabal': require('./images/jabal.jpg'),
-  'karbala': require('./images/karbala.jpg'),
-  'kashan_desert': require('./images/kashan_desert.jpg'),
-  'khamisiyah': require('./images/khamisiyah.jpg'),
-  'kokan': require('./images/kokan.jpg'),
-  'kokan_sp': require('./images/kokan_sp.jpg'),
-  'korengal': require('./images/korengal.jpg'),
-  'kozelsk': require('./images/kozelsk.jpg'),
-  'lashkar_valley': require('./images/lashkar_valley.jpg'),
-  'muttrah_city_2': require('./images/muttrah_city_2.jpg'),
-  'nuijamaa': require('./images/nuijamaa.jpg'),
-  'op_barracuda': require('./images/op_barracuda.jpg'),
-  'operation_archer': require('./images/operation_archer.jpg'),
-  'operation_ghost_train': require('./images/operation_ghost_train.jpg'),
-  'operation_marlin': require('./images/operation_marlin.jpg'),
-  'operation_soul_rebel': require('./images/operation_soul_rebel.jpg'),
-  'pavlovsk_bay': require('./images/pavlovsk_bay.jpg'),
-  'qwai1': require('./images/qwai1.jpg'),
-  'ramiel': require('./images/ramiel.jpg'),
-  'saaremaa': require('./images/saaremaa.jpg'),
-  'sahel': require('./images/sahel.jpg'),
-  'sbeneh_outskirts': require('./images/sbeneh_outskirts.jpg'),
-  'shijiavalley': require('./images/shijiavalley.jpg'),
-  'silent_eagle': require('./images/silent_eagle.jpg'),
-  'tad_sae': require('./images/tad_sae.jpg'),
-  'test_airfield': require('./images/test_airfield.jpg'),
-  'test_bootcamp': require('./images/test_bootcamp.jpg'),
-  'the_falklands': require('./images/the_falklands.jpg'),
-  'ulyanovsk': require('./images/ulyanovsk.jpg'),
-  'vadso_city': require('./images/vadso_city.jpg'),
-  'wanda_shan': require('./images/wanda_shan.jpg'),
-  'xiangshan': require('./images/xiangshan.jpg'),
-  'yamalia': require('./images/yamalia.jpg')
+import R from 'ramda';
+import immutable from 'immutable';
+import mapImages from './mapImages';
+import Sprite from './Sprite';
+import vehicleData from './vehicles.json';
+
+const Vehicles = ({
+  vehicles = new immutable.Map({})
+}) => {
+  const children = vehicles.entrySeq().map(
+    ([ key, data ]) => {
+      const object = data.toJS() || {};
+      return <Sprite name={
+        R.path([
+          object.name,
+          'miniMapIcon'
+        ], vehicleData)
+      } data={data} key={key} />;
+    }
+  );
+  return <div children={children} style={{
+    position: 'absolute'
+  }} />;
 };
 
-const Map = ({ name, ...attrs }) => (
-  <div {...attrs} style={{
-    ...attrs.style,
-    position: 'relative',
-    overflow: 'hidden',
-    backgroundSize: 'contain',
-    backgroundRepeat: 'no-repeat',
-    backgroundImage: `url('${maps[name]}')`
-  }} />
-);
+const Players = ({
+  players = new immutable.Map({})
+}) => {
+  const children = players.entrySeq().map(
+    ([ key, data ]) => {
+      const object = data.toJS() || {};
+      const { status } = object;
+      if (!status.isAlive) return <div />;
+      return <Sprite name={
+        status.kit
+      } data={data} key={key} />;
+    }
+  );
+  return <div children={children} style={{
+    position: 'absolute'
+  }} />;
+};
+
+const Map = ({ present }) => {
+  const mapName = present.getIn(['server', 'details', 'mapName']);
+  const mapImage = mapImages(mapName);
+
+  return <div>
+    <div style={{
+      position: 'relative',
+      overflow: 'hidden',
+      backgroundSize: 'contain',
+      backgroundRepeat: 'no-repeat',
+      backgroundImage: `url('${mapImage}')`,
+      height: 500,
+      width: 500,
+      display: 'inline-block'
+    }}>
+      <Vehicles vehicles={present.get('vehicles')} />
+      <Players players={present.get('players')} />
+    </div>
+    <pre children={
+      JSON.stringify(present, null, 2)
+    } style={{
+      display: 'inline-block',
+      height: '500px',
+      width: 'calc(100vw - 600px)',
+      overflowY: 'scroll'
+    }} />
+  </div>;
+};
 
 export default Map;
